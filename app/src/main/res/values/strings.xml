@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ip Address Checker Compose</string>
+    <string name="ip_address_title">Ip Address Info</string>
+    <string name="api_access_key">f5045fad00da05628d1d7569c02c9e49</string>
 </resources>
